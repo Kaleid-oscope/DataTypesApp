@@ -12,3 +12,4 @@ D:\Programming\Repos\DataTypesApp\obj\Debug\net8.0\refint\DataTypesApp.dll
 D:\Programming\Repos\DataTypesApp\obj\Debug\net8.0\DataTypesApp.pdb
 D:\Programming\Repos\DataTypesApp\obj\Debug\net8.0\DataTypesApp.genruntimeconfig.cache
 D:\Programming\Repos\DataTypesApp\obj\Debug\net8.0\ref\DataTypesApp.dll
+D:\Programming\Repos\DataTypesApp\obj\Debug\net8.0\DataTypesApp.sourcelink.json
